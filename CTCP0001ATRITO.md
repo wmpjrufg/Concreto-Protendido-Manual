@@ -92,12 +92,12 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
     <td>\(%\)</td>
   </tr>
   <tr>
-    <td>\(P_{t+i}\)</td>
+    <td>\(P^{t+i}\)</td>
     <td>Carga final de protensão após as perdas</td>
     <td>\(kN\)</td>
   </tr>
   <tr>
-    <td>\(\sigma_{t+i}\)</td>
+    <td>\(\sigma^{t+i}\)</td>
     <td>Tensão inicial de protensão após as perdas</td>
     <td>\(kPa\)</td>
   </tr>

@@ -1,10 +1,10 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 
-<h1>Coretec Tools: Concreto Protendido</h1>
+<h1>Concreto Protendido: Atrito</h1>
 
-<p align="justify">A calculadora Atrito do módulo Concreto Protendido efetua o cálculo das perdas de protensão por atrito, em uma única seção, segundo as prescrições da NBR 6118. <br>
-
-Para utilizar a ferramenta acesse a plataforma <a href="https://www.coretectools.com.br/" target="_blank">Coretec Tools</a>. Dentro do menu <b>Painel</b> acesse as ferramentas da <b>Engenhgaria Civil</b>.</p>
+<p align="justify">A calculadora Atrito do módulo Concreto Protendido efetua o cálculo das perdas de protensão por atrito, em uma única seção, segundo as prescrições da NBR 6118.<br>
+<br>
+Para utilizar a ferramenta acesse a plataforma <a href="https://www.coretectools.com.br/" target="_blank">Coretec Tools</a>. Dentro do menu <b>Painel</b> acesse as ferramentas do curso de <b>Engenhgaria Civil</b>.</p>
 
 <h2>Procedimento de cálculo</h2>
 

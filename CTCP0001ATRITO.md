@@ -117,3 +117,9 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
 </ul>
 
 <p align="justify">Empregando um coeficiente \(\mu\) = 0,30 para avaliação entre cabos e bainha. A perda total será dada conforme equação (5) com um valor de cerca de 10,59%. A carga após a perda é de 127,67 \(kN\). Já o valor da tensão após as perdas é de 1.274.140,48 \(kPa\).</p>
+
+<h2>Referências</h2>
+
+[1]	Carvalho RC. Estruturas em Concreto Protendido. 2a edição. Pini; 2017.
+[2]	Associação Brasileira de Normas Técnicas. ABNT NBR 6118: Projeto de estruturas de concreto-procedimento. Rio de Janeiro: ABNT; 2014.
+[3]	Thomaz ECS. Perdas Imediatas de Protensão. Rio de Janeiro: Instituto Militar de Engenharia (IME); 20--.

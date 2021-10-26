@@ -13,12 +13,13 @@ Para utilizar a ferramenta acesse a plataforma <a href="https://www.coretectools
 Para efetuar o cálculo da perda de protensão basta a aplicação da equação (1):</p>
 
 $$\Delta P = P_i^t.(1-e^{-(\mu.\sum\alpha+k.x)})$$  
+1:  $$\Delta P = P_i^t.(1-e^{-(\mu.\sum\alpha+k.x)})$$  
 
 <p align="justify">O valor da carga final de protensão ao final da perda (\(P_i^{t+1}\)), tensão de protensão após a aplicação da perda (\(sigma_i^{t+1}\)) e a perda de percentual são dadas pelas equações (2) a (4):</p>
 
 2:  $$P_i^{t+1} = P_i^t.(e^{-(\mu.\sum\alpha+k.x)})$$  
 3:  $$\sigma_i^{t+1}=\frac{P_i^{t+1}}{A_p}$$  
-4:  $$\Delta=\left(frac{\Delta P}{P_i^t}\right).100$$  
+4:  $$\Delta=frac{\Delta P}{P_i^t}.100$$  
 
 <p align="justify">A perda percentual de tensão é dada pela equação (5):</p>
 

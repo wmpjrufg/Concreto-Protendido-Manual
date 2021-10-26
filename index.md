@@ -9,13 +9,11 @@
 
 _**Desenvolvedores**_  
 
-**Managers Team:**   
+**Equipe de desenvolvimento**   
 - [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
-
-**Students Team:**    
-- Civil Engineer Gabriel Bernardes Carvalho
-- Civil Engineer José Vitor Silva de Carvalho  
-- Civil Engineer Murilo Carneiro Rodrigues
+- [Eng. Civil Walfrido do Vale]()  
+- [Eng. Civil Carlos MAgno Carneiro]()  
+- [Progr. Walter Albergaria Júnior]()  
 
 _**Sumário**_  
 1.0 - Calculadoras  

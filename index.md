@@ -12,7 +12,7 @@ _**Desenvolvedores**_
 **Equipe de desenvolvimento**   
 - [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
 - [Eng. Civil Walfrido do Vale]()  
-- [Eng. Civil Carlos MAgno Carneiro]()  
+- [Eng. Civil Carlos Magno Carneiro]()  
 - [Progr. Walter Albergaria Júnior]()  
 
 _**Sumário**_  

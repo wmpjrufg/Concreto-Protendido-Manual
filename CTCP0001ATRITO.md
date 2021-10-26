@@ -15,7 +15,7 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
 $$\Delta P = P_i^t.(1-e^{-(\mu.\sum\alpha+k.x)})$$  
 1:  $$\Delta P = P_i^t.(1-e^{-(\mu.\sum\alpha+k.x)})$$  
 
-<p align="justify">O valor da carga final de protensão ao final da perda (\(P_i^{t+1}\)), tensão de protensão após a aplicação da perda (\(sigma_i^{t+1}\)) e a perda de percentual são dadas pelas equações (2) a (4):</p>
+<p align="justify">O valor da carga final de protensão ao final da perda (\(P_i^{t+1}\)), tensão de protensão após a aplicação da perda (\(\sigma_i^{t+1}\)) e a perda de percentual são dadas pelas equações (2) a (4):</p>
 
 2:  $$P_i^{t+1} = P_i^t.(e^{-(\mu.\sum\alpha+k.x)})$$  
 3:  $$\sigma_i^{t+1}=\frac{P_i^{t+1}}{A_p}$$  
@@ -39,14 +39,14 @@ $$\mathrm{\Delta\sigma}=\sigma_i^{t+1}-\sigma_i^t$$
 </thead>
 <tbody>
   <tr>
-    <td>u</td>
+    <td>\(u\)</td>
     <td>Coeficiente de atrito aparente entre cabo e bainha</td>
-    <td>1/rad</td>
+    <td>\(1/rad\)</td>
   </tr>
   <tr>
-    <td>k</td>
+    <td>\(k\)</td>
     <td>Coeficiente de perda provocado por curvaturas não intencionais do cabo</td>
-    <td>1/m</td>
+    <td>\(1/m\)</td>
   </tr>
   <tr>
     <td>P_i</td>

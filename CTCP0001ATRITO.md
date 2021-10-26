@@ -89,7 +89,7 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
   <tr>
     <td>\(\Delta\)</td>
     <td>Perda de protensão</td>
-    <td>\(%\)</td>
+    <td>%</td>
   </tr>
   <tr>
     <td>\(P^{t+i}\)</td>

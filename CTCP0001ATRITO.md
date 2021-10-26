@@ -120,6 +120,6 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
 
 <h2>Referências</h2>
 
-[1]	Carvalho RC. Estruturas em Concreto Protendido. 2a edição. Pini; 2017.
-[2]	Associação Brasileira de Normas Técnicas. ABNT NBR 6118: Projeto de estruturas de concreto-procedimento. Rio de Janeiro: ABNT; 2014.
-[3]	Thomaz ECS. Perdas Imediatas de Protensão. Rio de Janeiro: Instituto Militar de Engenharia (IME); 20--.
+[1]	Carvalho RC. Estruturas em Concreto Protendido. 2a edição. Pini; 2017.  
+[2]	Associação Brasileira de Normas Técnicas. ABNT NBR 6118: Projeto de estruturas de concreto-procedimento. Rio de Janeiro: ABNT; 2014.  
+[3]	Thomaz ECS. Perdas Imediatas de Protensão. Rio de Janeiro: Instituto Militar de Engenharia (IME); 20--.  

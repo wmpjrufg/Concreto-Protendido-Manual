@@ -53,7 +53,7 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
     <td>\(kN\)</td>
   </tr>
   <tr>
-    <td>\(sigma_i\)</td>
+    <td>\(\sigma_i\)</td>
     <td>Tensão inicial de protensão sem perdas</td>
     <td>\(kPa\)</td>
   </tr>
@@ -110,7 +110,7 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
 
 * Dados de entrada do problema:
 <ul>
-<li>1 Cabo de \(\fi\) 12.7 mm</li>
+<li>1 Cabo de \(\phi\) 12.7 mm</li>
 <li>\(A_p\) 1 cabo = 1,002 \(cm^2\)</li>
 <li>\(\alpha\) = 0.173 \(rad\)</li>
 <li>Estado</li>

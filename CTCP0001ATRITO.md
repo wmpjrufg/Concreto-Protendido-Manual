@@ -106,7 +106,7 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
 
 <h3>Exemplo</h3>
 
-<p align="justify">Considere a viga biapoiada apresenta por Thomaz[3] com vão de 30 metros e com tensão incial de protensão de 1.425.000 \(KPa\). Deseja-se encontrar a perda de perda de protensão na seção de 15 m considerando que o perfil do cabo é parabólico e que as cordoalhas são protegidas por bainhas metálicas.</p>
+<p align="justify">Considere a viga biapoiada apresenta por Thomaz[3] com vão de 30 metros e com tensão incial de protensão de 1.425.000,00 \(KPa\). Deseja-se encontrar a perda de perda de protensão na seção de 15 m considerando que o perfil do cabo é parabólico e que as cordoalhas são protegidas por bainhas metálicas.</p>
 
 * Dados de entrada do problema:
 <ul>
@@ -116,4 +116,4 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
 <li>\(k\) = 0,004 \(1/m\)</li>
 </ul>
 
-<p align="justify">Empregando um coeficiente \(\mu\) = 0,30 para avaliação entre cabos e bainha. A perda total será dada conforme equação (5) com um valor de cerca de 10.59%. A carga após a perda é de 127,67 kN. Já o valor da tensão após as perdas é de 1.274.140,48 \(KPa\).</p>
+<p align="justify">Empregando um coeficiente \(\mu\) = 0,30 para avaliação entre cabos e bainha. A perda total será dada conforme equação (5) com um valor de cerca de 10,59%. A carga após a perda é de 127,67 kN. Já o valor da tensão após as perdas é de 1.274.140,48 \(KPa\).</p>

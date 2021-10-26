@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+<h1>Seja bem vindo ao Coretec Tools Concreto Protendido</h1>
 
-You can use the [editor on GitHub](https://github.com/wmpjrufg/Concreto-Protendido-Manual/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<table>
+<tr>
+<td style="width:70%;"><p align="justify">Esta é a ferramentas Coretec Tools Concreto Protendido Aqui você irá encontrar simuladores de estruturas de concreto protendido.</p></td>
+<td style="width:30%;"><img src="Logo/FINITO_LOGO.png"/></td>  
+</tr>
+</table>  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_**Desenvolvedores**_  
 
-### Markdown
+**Managers Team:**   
+- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Students Team:**    
+- Civil Engineer Gabriel Bernardes Carvalho
+- Civil Engineer José Vitor Silva de Carvalho  
+- Civil Engineer Murilo Carneiro Rodrigues
 
-```markdown
-Syntax highlighted code block
+_**Sumário**_  
+1.0 - Calculadoras
+1.1 - [Perda por atrito](https://wmpjrufg.github.io/FINITO_TOOLBOX/CAP_1-1.html)  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wmpjrufg/Concreto-Protendido-Manual/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="justify">Qualquer sugestão ou relatório de erro no funcionamento da ferramenta, por favor nos informe por e-mail: <b><i>wanderlei_junior@ufcat.edu.br</i></b>. Teremos o maior prazer em melhorar a plataforma.</p>

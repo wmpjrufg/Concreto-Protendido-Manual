@@ -18,7 +18,7 @@ _**Desenvolvedores**_
 - Civil Engineer Murilo Carneiro Rodrigues
 
 _**Sumário**_  
-1.0 - Calculadoras
-1.1 - [Perda por atrito](https://wmpjrufg.github.io/FINITO_TOOLBOX/CAP_1-1.html)  
+1.0 - Calculadoras  
+1.1 - [Perda por atrito](https://wmpjrufg.github.io/FINITO_TOOLBOX/CAP_1-1.html)   
 
 <p align="justify">Qualquer sugestão ou relatório de erro no funcionamento da ferramenta, por favor nos informe por e-mail: <b><i>wanderlei_junior@ufcat.edu.br</i></b>. Teremos o maior prazer em melhorar a plataforma.</p>

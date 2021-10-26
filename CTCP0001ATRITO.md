@@ -38,7 +38,7 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
 </thead>
 <tbody>
   <tr>
-    <td>\(u\)</td>
+    <td>\(\mu\)</td>
     <td>Coeficiente de atrito aparente entre cabo e bainha</td>
     <td>\(1/rad\)</td>
   </tr>
@@ -110,8 +110,10 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
 
 * Dados de entrada do problema:
 <ul>
-<li>1 Cabo de \(\phi\) 12.7 mm</li>
+<li>1 Cabo de \(\phi\) 12,7 mm</li>
 <li>\(A_p\) 1 cabo = 1,002 \(cm^2\)</li>
-<li>\(\alpha\) = 0.173 \(rad\)</li>
+<li>\(\alpha\) = 0,173 \(rad\)</li>
 <li>\(\k\) = 0,004 \(1/m\)</li>
 </ul>
+
+<p align="justify">Empregando um coeficiente \(\mu\) = 0,30 para avaliação entre cabos e bainha. A perda total será dada conforme equação (5). O valor da perda é de </p>

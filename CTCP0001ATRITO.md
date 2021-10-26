@@ -109,7 +109,9 @@ Para efetuar o cálculo da perda de protensão basta a aplicação da equação 
 <p align="justify">Considere a viga biapoiada apresenta por Thomaz[3] com vão de 30 metros e com tensão incial de protensão de 1.425.000 KPa. Deseja-se encontrar a perda de perda de protensão na seção de 15 m considerando que o perfil do cabo é parabólico e que as cordoalhas são protegidas por bainhas metálicas.</p>
 
 * Dados de entrada do problema:
- * 1 Cabo de $\fi$ 12.7 mm
- * A_p 1 cabo = 1,002 cm²
- * \alpha = 0.173 rad
- * 
+<ul>
+<li>1 Cabo de \(\fi\) 12.7 mm</li>
+<li>\(A_p\) 1 cabo = 1,002 \(cm^2\)</li>
+<li>\(\alpha\) = 0.173 \(rad\)</li>
+<li>Estado</li>
+</ul>

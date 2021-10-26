@@ -12,18 +12,17 @@ Para utilizar a ferramenta acesse a plataforma <a href="https://www.coretectools
 <br>
 Para efetuar o cálculo da perda de protensão basta a aplicação da equação (1):</p>
 
-$\Delta P = P_i^t.(1-e^{-(\mu.\sum\alpha+k.x)})$
 1:  $$\Delta P = P_i^t.(1-e^{-(\mu.\sum\alpha+k.x)})$$  
 
 <p align="justify">O valor da carga final de protensão ao final da perda (\(P_i^{t+1}\)), tensão de protensão após a aplicação da perda (\(\sigma_i^{t+1}\)) e a perda de percentual são dadas pelas equações (2) a (4):</p>
 
 2:  $$P_i^{t+1} = P_i^t.(e^{-(\mu.\sum\alpha+k.x)})$$  
 3:  $$\sigma_i^{t+1}=\frac{P_i^{t+1}}{A_p}$$  
-4:  $$\Delta=frac{\Delta P}{P_i^t}.100$$  
+4:  $$\Delta=\frac{\Delta P}{P_i^t}.100$$  
 
 <p align="justify">A perda percentual de tensão é dada pela equação (5):</p>
 
-$$\mathrm{\Delta\sigma}=\sigma_i^{t+1}-\sigma_i^t$$
+5:  $$\mathrm{\Delta\sigma}=\sigma_i^{t+1}-\sigma_i^t$$
 
 <h2>Como utilizar a ferramenta</h2>
 
@@ -49,29 +48,29 @@ $$\mathrm{\Delta\sigma}=\sigma_i^{t+1}-\sigma_i^t$$
     <td>\(1/m\)</td>
   </tr>
   <tr>
-    <td>P_i</td>
+    <td>\(P_i\)</td>
     <td>Carga inicial de protensão sem perdas</td>
-    <td>kN</td>
+    <td>\(kN\)</td>
   </tr>
   <tr>
-    <td>Sigma_i</td>
+    <td>\(sigma_i\)</td>
     <td>Tensão inicial de protensão sem perdas</td>
-    <td>kPa</td>
+    <td>\(kPa\)</td>
   </tr>
   <tr>
-    <td>x</td>
+    <td>\(x\)</td>
     <td>Abcissa do cabo que deseja-se calcular a perda</td>
-    <td>m</td>
+    <td>\(m\)</td>
   </tr>
   <tr>
-    <td>A_p</td>
+    <td>\(A_p\)</td>
     <td>Área de aço total das cordoalhas na seção x</td>
-    <td>m²</td>
+    <td>\(m^2\)</td>
   </tr>
   <tr>
-    <td>\alpha</td>
-    <td>Soma dos ângulos de desvios previstos compreendido entre 0 e&nbsp;&nbsp;a abcissa&nbsp;&nbsp;de valor x</td>
-    <td>rad</td>
+    <td>\(\alpha\)</td>
+    <td>Soma dos ângulos de desvios previstos compreendido entre a abcissa 0 e a abcissa de valor \(x\)</td>
+    <td>\(rad\)</td>
   </tr>
 </tbody>
 </table>
@@ -88,19 +87,19 @@ $$\mathrm{\Delta\sigma}=\sigma_i^{t+1}-\sigma_i^t$$
 </thead>
 <tbody>
   <tr>
-    <td>\Delta</td>
+    <td>\(\Delta\)</td>
     <td>Perda de protensão</td>
-    <td>%</td>
+    <td>\(%\)</td>
   </tr>
   <tr>
-    <td>P_{t+i}</td>
+    <td>\(P_{t+i}\)</td>
     <td>Carga final de protensão após as perdas</td>
-    <td>kN</td>
+    <td>\(kN\)</td>
   </tr>
   <tr>
-    <td>Sigma_{t+i}</td>
+    <td>\(\sigma_{t+i}\)</td>
     <td>Tensão inicial de protensão após as perdas</td>
-    <td>kPa</td>
+    <td>\(kPa\)</td>
   </tr>
 </tbody>
 </table>
